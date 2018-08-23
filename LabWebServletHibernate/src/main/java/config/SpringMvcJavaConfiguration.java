@@ -36,7 +36,7 @@ public class SpringMvcJavaConfiguration implements WebMvcConfigurer {
 	}
 	@Autowired
 	private ServletContext application;
-
+	//test3
 	@Override
 	public void configureViewResolvers(ViewResolverRegistry registry) {
 		XmlViewResolver xmlViewResolver = new XmlViewResolver();
