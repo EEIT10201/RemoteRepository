@@ -38,6 +38,7 @@ public class ProductService {
 		}
 		return result;
 	}
+	//哈哈哈
 	public boolean delete(ProductBean bean) {
 		boolean result = false;
 		if(bean!=null) {
