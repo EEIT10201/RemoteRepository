@@ -14,5 +14,5 @@ public interface ProductDAO {
 			java.util.Date make, int expire, int id);
 
 	public abstract boolean delete(int id);
-
+	//123
 }
